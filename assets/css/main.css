@@ -72,6 +72,12 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+.resume {
+	
+	margin-left: 275px;
+	margin-bottom: 75px;
+}
 /* Basic */
 
 	html {
@@ -3856,6 +3862,9 @@ input, select, textarea {
 						width: 9em;
 					}
 
+
+
+	
 		/* Nav */
 
 			#page-wrapper {
